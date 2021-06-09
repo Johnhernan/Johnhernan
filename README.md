@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnhernan
+- 👋 Hi, I’m John Hernandez
 - 👀 I’m interested in web design, coffee and video games.
 - 🌱 I’m currently learning Discord.js
 - 💞️ I’m looking to collaborate on web development projects
